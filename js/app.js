@@ -54,7 +54,7 @@ let userName = prompt('please enter Name');
 // }
 
 // alert('just to know the rigth answer is yes,yes,yes,no.yes')
-alert('now you have to answer in 6 quection okay lest is start .')
+alert('now you have to answer in 6 quection you have just 4 attempts okay let is start .')
 
 let gusNumber = prompt('can u guess which number i prefer 1, 9, 5, 7, 3')
 for (let i =0;i < 3;i++){

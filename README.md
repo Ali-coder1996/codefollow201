@@ -21,3 +21,4 @@ Consider using a loop of some sort for this question.
 
 4- As a user, I would like to know my final score so that I can know how well I did.
 Keep track of the total number of correct answers. At the end tell them how many they got correct out of the 7 questions asked.
+ ## we add some functions and the score for all the questions
